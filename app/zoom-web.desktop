@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Zoom Web
+Exec=sh -c "$HOME/.local/bin/zoom-web.sh %u"
+StartupNotify=false
+MimeType=x-scheme-handler/zmw;
